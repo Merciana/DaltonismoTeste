@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TesteDaltonismo</string>
+    <string name="oquee">O que é?</string>
+    <string name="dalto">O daltonismo consiste em um quadro no qual o indivíduo apresenta dificuldade na identificação das cores tais como vermelho e/ou verde. Há casos mais graves em que o paciente não consegue identificar as cores</string>
+    <string name="texto">Faça o teste!</string>
+    <string name="respostas">Respostas</string>
+    <string name="teste_1">Teste 1</string>
+    <string name="teste_3">Teste 3</string>
+    <string name="verificarbutton">Verificar</string>
+    <string name="teste_2">Teste 2</string>
+    <string name="pagina2">Que número você vê na imagem abaixo?</string>
+    <string name="digiteNu">Digite</string>
+</resources>
